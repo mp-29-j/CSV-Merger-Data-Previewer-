@@ -1,0 +1,6 @@
+site_name: CSV Merger Data Previewer
+nav:
+  - Home: index.md
+
+theme:
+  name: readthedocs
